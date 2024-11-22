@@ -1,0 +1,9 @@
+cd
+echo "# Giancarlo3" >> README.md
+git init
+git add README.md
+git commit -m "third commit"
+git branch -M main
+git remote add origin https://github.com/H1pst3/Giancarlo3.git
+git push -u origin master
+git status
