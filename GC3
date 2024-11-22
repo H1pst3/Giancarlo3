@@ -6,4 +6,6 @@ git commit -m "third commit"
 git branch -M main
 git remote add origin https://github.com/H1pst3/Giancarlo3.git
 git push -u origin master
+git checkout master
+git merge rama4
 git status
