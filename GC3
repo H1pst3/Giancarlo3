@@ -9,3 +9,7 @@ git push -u origin master
 git checkout master
 git merge rama4
 git status
+git add .
+git commit -m "Fusionar rama4 a master"
+git push origin master
+git status
